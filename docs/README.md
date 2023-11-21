@@ -56,3 +56,5 @@ for print all winner names
 `WinnerDto` - `name`
 
 `WinnersDto` - `List<WinnerDto>`
+
+`check`
